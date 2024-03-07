@@ -1,0 +1,20 @@
+[
+    {
+        "old": {
+            "level1": "bk101"
+        },
+        "new": {
+            "level1": "mybook"
+        }
+    },
+    {
+        "old": {
+            "level1": "*",
+            "level2": "Fancasy"
+        },
+        "new": {
+            "level1": "*",
+            "level2": "SciFi"
+        }
+    }
+]
